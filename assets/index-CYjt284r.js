@@ -1,1 +1,0 @@
-import{_ as o,d as c,c as n,o as s,k as t,f as a}from"./index-BxoItr7S.js";const r={};function _(d,i){const e=c("svg-icon");return s(),n("div",null,[t(" 表单构建 "),a(e,{"icon-class":"build"})])}const f=o(r,[["render",_]]);export{f as default};
